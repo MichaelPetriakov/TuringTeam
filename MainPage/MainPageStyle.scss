@@ -5,6 +5,7 @@
 body{
 	background-color: lightblue;
 }
+//Board
 #board{
 	color: black;
 	background-color: lightgrey;
@@ -21,3 +22,14 @@ body{
 	margin-left: 5%;
 	margin-right: 5%;
 }
+.lng{
+	float: right;
+	margin: 0 5px 0 0;
+	color: red;
+}
+#SearchIco{
+	padding-top: 1%;
+	float: left;
+	color: red;
+}
+//There will be CSS code of other elements, soon..
