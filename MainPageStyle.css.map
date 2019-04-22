@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,CAAC;EACA,KAAK,EAAE,KAAK",
+"sources": ["MainPageStyle.scss"],
+"names": [],
+"file": "MainPageStyle.css"
+}
