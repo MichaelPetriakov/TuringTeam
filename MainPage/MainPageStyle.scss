@@ -10,10 +10,11 @@ body{
 	color: white;
 	background-color: grey;
 	display: flex;
+	max-height: 58;
 }
 #ico{
 	padding: 0.6%;
-	margin: 0.5%;
+	margin: 1%;
 	color: white;
 	font-size: 25px;
 	background-color: blue;
@@ -25,7 +26,7 @@ body{
 }
 #lng{
 	float: right;
-		margin: 0 0 0 15%;
+		margin: 0 0 0 10%;
 }
 .lng{
 	float: right;
@@ -34,5 +35,11 @@ body{
 #SearchIco{
 	padding-top: 1%;
 	float: right;
+}
+#tc{
+	float: right;
+	//display: flex;
+	width: 30%;
+	height: 30%;
 }
 //There will be CSS code of other elements, soon..
