@@ -6,12 +6,13 @@ body {
   background-color: lightblue; }
 
 #board {
-  color: black;
-  background-color: lightgrey;
+  color: white;
+  background-color: grey;
   display: flex; }
 
 #ico {
-  padding: 0.8%;
+  padding: 0.6%;
+  margin: 0.5%;
   color: white;
   font-size: 25px;
   background-color: blue; }
@@ -21,14 +22,16 @@ body {
   margin-left: 5%;
   margin-right: 5%; }
 
+#lng {
+  float: right;
+  margin: 0 0 0 15%; }
+
 .lng {
   float: right;
-  margin: 0 5px 0 0;
-  color: red; }
+  margin: 15px 5px 0 0; }
 
 #SearchIco {
   padding-top: 1%;
-  float: left;
-  color: red; }
+  float: right; }
 
 /*# sourceMappingURL=MainPageStyle.css.map */
