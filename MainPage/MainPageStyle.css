@@ -42,23 +42,65 @@ body {
   width: 2.5%;
   height: 2.5%; }
 
+#center {
+  padding-top: 4%; }
+
 #ft {
   float: left;
-  width: 40%; }
+  width: 39%;
+  padding-left: 1%; }
 
 #tc {
   float: right;
   width: 60%;
-  height: 60%; }
+  height: 60%;
+  display: block; }
 
 #mouse {
-  float: left; }
+  float: left;
+  padding-left: 1%; }
 
 #welcome1 {
-  display: flex; }
+  display: flex;
+  padding-left: 1%; }
 
 #welcome2 {
   display: flex;
   padding-left: 20%; }
+
+#hnd {
+  width: 10%;
+  height: 10%;
+  float: left;
+  margin-right: 18%; }
+
+#trgt {
+  width: 10%;
+  height: 10%;
+  margin-top: 2%;
+  margin-right: 16%;
+  float: left; }
+
+#tsp {
+  width: 10%;
+  height: 10%;
+  float: right; }
+
+#aa {
+  display: flex;
+  float: left;
+  margin-left: 1%;
+  margin-top: 1%; }
+
+#bb {
+  display: flex;
+  float: right;
+  margin-top: 2%; }
+
+#cc {
+  display: flex;
+  float: left;
+  margin-left: 1%;
+  max-width: 20%; }
 
 /*# sourceMappingURL=MainPageStyle.css.map */

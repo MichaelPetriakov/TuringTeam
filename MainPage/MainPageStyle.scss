@@ -45,25 +45,69 @@ body{
 	height: 2.5%;
 }
 //center elements
+#center{
+	padding-top: 4%;
+}
 #ft{
 	float: left;
-	width: 40%;
+	width: 39%;
+	padding-left: 1%;
 }
 #tc{
 	float: right;
-	//display: flex;
 	width: 60%;
 	height: 60%;
+	display: block;
 }
 #mouse{
 	float: left;
+	padding-left: 1%;
 }
 #welcome1{
 	display: flex;
-	// padding-left: 5%;
+	padding-left: 1%;
 }
 #welcome2{
 	display: flex;
 	padding-left: 20%;
+}
+//touch elements
+#hnd{
+	width: 10%;
+	height: 10%;
+	float: left;
+	// margin-top: 6%;
+	margin-right: 18%;
+	// padding-left: 1%;
+}
+#trgt{
+	width: 10%;
+	height: 10%;
+	margin-top: 2%;
+	margin-right: 16%;
+	float: left;
+}
+#tsp{
+	width: 10%;
+	height: 10%;
+	float: right;
+}
+#aa{
+	display: flex;
+	float: left;
+	margin-left: 1%;
+	margin-top: 1%;
+}
+#bb{
+	display: flex;
+	float: right;
+	margin-top: 2%;
+	// margin-left: 1%;
+}
+#cc{
+	display: flex;
+	float: left;
+	margin-left: 1%;
+	max-width: 20%;
 }
 //There will be CSS code of other elements, soon..
