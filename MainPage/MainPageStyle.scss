@@ -36,10 +36,14 @@ body{
 	padding-top: 1%;
 	float: right;
 }
+//center elements
+#ft{
+	float: left;
+}
 #tc{
 	float: right;
 	//display: flex;
-	width: 30%;
+	width: 65%;
 	height: 30%;
 }
 //There will be CSS code of other elements, soon..
