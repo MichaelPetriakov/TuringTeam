@@ -69,38 +69,54 @@ body {
   padding-left: 20%; }
 
 #hnd {
-  width: 10%;
-  height: 10%;
+  width: 8%;
+  height: 8%;
   float: left;
-  margin-right: 18%; }
+  margin-right: 18%;
+  margin-left: 1%; }
 
 #trgt {
-  width: 10%;
-  height: 10%;
+  width: 9%;
+  height: 9%;
   margin-top: 2%;
   margin-right: 16%;
+  margin-left: 1%;
   float: left; }
 
 #tsp {
-  width: 10%;
-  height: 10%;
-  float: right; }
+  width: 12.5%;
+  height: 12.5%;
+  float: right;
+  padding-right: 1%; }
 
 #aa {
   display: flex;
   float: left;
   margin-left: 1%;
-  margin-top: 1%; }
+  margin-top: 1%;
+  font-size: 20px; }
 
 #bb {
   display: flex;
   float: right;
-  margin-top: 2%; }
+  padding-right: 1%;
+  font-size: 20px; }
 
 #cc {
   display: flex;
   float: left;
   margin-left: 1%;
-  max-width: 20%; }
+  max-width: 20%;
+  font-size: 20px; }
+
+#tt {
+  background-color: #A5C8FB;
+  width: 40%;
+  height: 250px;
+  position: center;
+  margin-top: 54%; }
+
+#why {
+  margin-left: 1%; }
 
 /*# sourceMappingURL=MainPageStyle.css.map */
