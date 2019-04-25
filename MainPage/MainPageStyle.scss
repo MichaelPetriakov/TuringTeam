@@ -11,7 +11,7 @@ body{
 	color: white;
 	background-color: #8C8D8F;
 	display: flex;
-	max-height: 58;
+	// max-height: 58;
 }
 .sticky{
   position: fixed;
@@ -77,10 +77,8 @@ body{
 	width: 8%;
 	height: 8%;
 	float: left;
-	// margin-top: 6%;
 	margin-right: 18%;
 	margin-left: 1%;
-	// padding-left: 1%;
 }
 #trgt{
 	width: 9%;
@@ -106,10 +104,8 @@ body{
 #bb{
 	display: flex;
 	float: right;
-	// margin-top: 1%;
 	padding-right: 1%;
 	font-size: 20px;
-	// margin-left: 1%;
 }
 #cc{
 	display: flex;
@@ -122,11 +118,45 @@ body{
 #tt{
 	background-color: #A5C8FB;
 	width: 40%;
-	height: 250px;
+	height: 400px;
 	position: center;
 	margin-top: 54%;
 }
 #why{
-	margin-left: 1%;
+	margin-left: 30%;
 }
+#t1{
+	font-size: 30px;
+	padding-left: 1%;
+}
+#h1{
+	float: right;
+}
+#fc{
+	float: right;
+	width: 59%;
+	height: 40%;
+	display: block;
+}
+#tur{
+	float: left;
+	width: 40%;
+	height: 40%;
+	display: block;
+}
+#ss{
+	background-color: #A5C8FB;
+	width: 40%;
+	height: 400px;
+	position: center;
+	margin-top: 54%;
+}
+#wt{
+	margin-left: 30%;
+}
+#t2{
+	font-size: 30px;
+	padding-right: 1%;
+}
+
 //There will be CSS code of other elements, soon..
