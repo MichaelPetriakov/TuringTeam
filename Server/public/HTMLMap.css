@@ -1,0 +1,98 @@
+* {
+  font-family: "Reem Kufi", "Sans Serif";
+  padding: 0;
+  margin: 0; }
+
+body {
+  background-color: white; }
+
+#board {
+  color: white;
+  background-color: #E44D26;
+  display: flex;
+  max-height: 58; }
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%; }
+
+#ico {
+  height: 3%;
+  width: 3%;
+  margin: 0.5% 0 0.5% 1%; }
+
+.btn {
+  padding-top: 2%;
+  margin-left: 3%;
+  font-size: 18px; }
+
+#lng {
+  float: right;
+  margin: 0 0 0 50%; }
+
+.lng {
+  float: right;
+  margin: 15px 5px 0 0; }
+
+#SearchIco {
+  padding-top: 1%;
+  margin-left: 1%;
+  float: right;
+  width: 2.5%;
+  height: 2.5%; }
+
+#tc {
+  float: right;
+  width: 30%;
+  height: 30%; }
+  
+  
+ .welcome {
+  display: inline-block;
+  /*position: absolute;*/
+  /*top: 0;*/
+}
+/*#welcome{*/
+/*    display: inline-block;*/
+/*    margin-left: 20px;*/
+/*    margin-top: -250px;}*/
+  
+
+.mouse{
+  margin-left: 1.7%;
+  margin-bottom: -3.5%;
+  display: inline-block;
+}
+
+.comp{
+  display: inline-block;
+  height: 29%;
+  width: 38%;
+  margin-bottom: 11%;
+  margin-left: 13%;
+}
+
+.lol{
+  margin-top: 2%;
+}
+#center{
+  position: relative;
+  padding-top: 4%;
+}
+
+.tekst{
+  display: inline-block;
+  margin-left: 47%;
+  margin-top: -20%;
+}
+
+.turing{
+  display: inline-block;
+  margin-left: 87%;
+}
+
+.w{
+  display: inline-block;
+  margin-bottom: 20px;
+}
