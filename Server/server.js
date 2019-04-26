@@ -25,7 +25,7 @@ app.get('/JavaScriptMap', function(req, res){
 });
 
 app.get('/HTMLMap', function(req, res){
-	res.sendFile(__dirname + '/HTMLMap');
+	res.sendFile(__dirname + '/HtmlMap.html');
 	console.log("URL: 127.0.0.1:3000" + req.url);
 });
 

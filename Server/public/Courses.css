@@ -1,0 +1,97 @@
+* {
+  font-family: "Reem Kufi", "Sans Serif";
+  padding: 0;
+  margin: 0; }
+
+body {
+  background-color: white; }
+
+#board {
+  color: white;
+  background-color: #8C8D8F;
+  display: flex;
+  max-height: 58; }
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%; }
+
+#ico {
+  height: 3%;
+  width: 3%;
+  margin: 0.5% 0 0.5% 1%; }
+
+.btn {
+  padding-top: 2%;
+  margin-left: 3%;
+  font-size: 18px; }
+
+#lng {
+  float: right;
+  margin: 0 0 0 50%; }
+
+.lng {
+  float: right;
+  margin: 15px 5px 0 0; }
+
+#SearchIco {
+  padding-top: 1%;
+  margin-left: 1%;
+  float: right;
+  width: 2.5%;
+  height: 2.5%; }
+  
+  
+  #gen {
+  float: left;
+  padding-top: 6%; }
+  
+    #gen1 {
+  float: left;
+  padding-top: 7%; }
+  
+      #gen2 {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 50px;
+  padding-top: 2%; }
+  
+    #forum1 {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 80px;
+  padding-top: 10%;
+    
+  }
+  
+ 
+  
+        #gen3 {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 300px;
+  padding-top: 2.5%; }
+
+ #forum2 {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 330px;
+  padding-top: 10%;
+    
+  }
+  
+         #gen4 {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 560px;
+  padding-top: 3%; }
+
+ #forum3 {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 560px;
+  padding-top: 7%;
+    
+  }
+  
